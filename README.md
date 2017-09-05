@@ -35,6 +35,9 @@ in the commit logs.
 This assignment requires a programmer to implement and test a Python 3 program,
 called `duplicates.py`, that will remove the duplicate values between two input
 lists. Currently, the provided version of the system does not work correctly.
+You can read the comments in the source of the `duplicates.py` file to
+understand how the program is intended to work. Then, you will have to find and
+fix the defect(s) in this program.
 
 The programmer is also responsible for writing a two-paragraph reflection,
 added to the file `README.md`, that explains the challenges that
