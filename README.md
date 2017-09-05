@@ -120,7 +120,7 @@ successfully demonstrate that your program is working correctly.
 Finally, you should edit the file, called `README.md`, in your GitHub
 repository. This file should contain a new header called `## Reflection` and,
 additionally, a two paragraph reflection on your experiences when completing
-this Laboratory assignment. The first paragraph in your reflection should
+this laboratory assignment. The first paragraph in your reflection should
 comment on the challenges that you experienced and the steps that you took to
 handle them. The second paragraph must state what the defect was in the program
 and how you fixed it.
