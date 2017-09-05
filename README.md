@@ -35,19 +35,19 @@ in the commit logs.
 This assignment requires a programmer to implement and test a Python 3 program,
 called `duplicates.py`, that will remove the duplicate values between two input
 lists. Currently, the provided version of the system does not work correctly.
-You can read the comments in the source of the `duplicates.py` file to
+You can read the comments in the source code of the `duplicates.py` file to
 understand how the program is intended to work. Then, you will have to find and
 fix the defect(s) in this program.
 
-The programmer is also responsible for writing a two-paragraph reflection,
-added to the file `README.md`, that explains the challenges that
-you faced and the solutions you developed. This is a Markdown file that must
-adhere to the standards described in the [Markdown Syntax
+The programmer is also responsible for writing a two-paragraph reflection, added
+to the file called `README.md`, that explains the challenges that you faced and
+the solutions you developed. This is a Markdown file that must adhere to the
+standards described in the [Markdown Syntax
 Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
-can preview the contents of a comitted Markdown file by clicking on the name
-of the file in your GitHub repository. Finally, don't forget that your
-`README.md` file should adhere to the Markdown standards established
-by the [Markdown linting tool](https://github.com/markdownlint/markdownlint).
+can preview the contents of a comitted Markdown file by clicking on the name of
+the file in your GitHub repository. Finally, don't forget that your `README.md`
+file should adhere to the Markdown standards established by the [Markdown
+linting tool](https://github.com/markdownlint/markdownlint).
 
 <!---
 
@@ -73,9 +73,9 @@ guides will help you to understand how to use both [GitHub](http://github.com) a
 [GitHub Classroom](https://classroom.github.com/).
 
 To do well on this assignment, you should also read Chapter 1 of the SETP course
-textbook, paying particularly close attention to Sections 1.3 through 1.5.
-Please see the course instructor if you have questions about any of these
-reading assignments.
+textbook, paying particularly close attention to Sections 1.3 through 1.5 and
+the discussion of software quality and system boundaries. Please see the course
+instructor if you have questions about any of these reading assignments.
 
 ## Requirements
 
