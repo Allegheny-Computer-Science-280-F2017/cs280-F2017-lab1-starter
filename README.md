@@ -37,15 +37,14 @@ called `duplicates.py`, that will remove the duplicate values between two input
 lists. Currently, the provided version of the system does not work correctly.
 
 The programmer is also responsible for writing a two-paragraph reflection,
-added to the file `duplicates/README.md`, that explains the challenges that
+added to the file `README.md`, that explains the challenges that
 you faced and the solutions you developed. This is a Markdown file that must
 adhere to the standards described in the [Markdown Syntax
 Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
 can preview the contents of a comitted Markdown file by clicking on the name
 of the file in your GitHub repository. Finally, don't forget that your
-`duplicates/README.md` file should adhere to the Markdown standards established
-by the [Markdown linting tool](https://github.com/markdownlint/markdownlint) and
-the writing standards set by the [Proselint tool](http://proselint.com/).
+`README.md` file should adhere to the Markdown standards established
+by the [Markdown linting tool](https://github.com/markdownlint/markdownlint).
 
 <!---
 
@@ -78,7 +77,8 @@ reading assignments.
 ## Requirements
 
 The Python3 software that supports this assignment requires you to install the
-`pytest` library by typing the command `pip install --user pytest`.
+`pytest` library by typing the command `python3 -m pip install --user -r
+duplicates/requirements.txt` from the root directory of your GitHub repository.
 
 ## Commands
 
