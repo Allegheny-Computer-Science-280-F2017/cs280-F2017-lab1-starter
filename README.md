@@ -83,7 +83,7 @@ The Python3 software that supports this assignment requires you to install the
 ## Commands
 
 When you are in the `duplicates` directory of your GitHub repository, you can
-type the command `python3 duplicates.py --listone 1 2 3 --listtwo 2 4`. The
+type the command `python3 duplicates.py --listone 1 2 3 4 --listtwo 1 2 5 6`. The
 correct version of this program would then produce the following output.
 
 ```
@@ -91,8 +91,8 @@ Duplicates removes duplicates from lists
 
 Removing the duplicates:
 
-List one: ['1', '3']
-List two: ['2', '4']
+List one: ['3', '4']
+List two: ['1', '2', '5', '6']
 
 ```
 
