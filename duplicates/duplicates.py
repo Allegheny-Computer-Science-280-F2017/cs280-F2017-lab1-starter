@@ -28,8 +28,7 @@ def display_welcome_message():
 def remove_duplicates(list_one, list_two):
     """ Assumes that list_one and list_two are lists.
         Removes any element from list_one that also occurs in list_two """
-    # for element_one in list_one:
-    for element_one in list_one[:]:
+    for element_one in list_one:
         if element_one in list_two:
             list_one.remove(element_one)
 
