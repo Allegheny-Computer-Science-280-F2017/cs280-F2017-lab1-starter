@@ -117,7 +117,7 @@ Next, you should ensure that the test suite for your program passes correctly.
 After the tests pass, you should add at least four more test cases that all
 successfully demonstrate that your program is working correctly.
 
-Finally, you should edit the file, called `duplicates/README.md`, in your GitHub
+Finally, you should edit the file, called `README.md`, in your GitHub
 repository. This file should contain a new header called `## Reflection` and,
 additionally, a two paragraph reflection on your experiences when completing
 this Laboratory assignment. The first paragraph in your reflection should
