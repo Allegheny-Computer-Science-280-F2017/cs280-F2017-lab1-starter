@@ -102,7 +102,7 @@ List two: ['1', '2', '5', '6']
 However, when you run the provided version of the program, you should notice
 that it does not produce the same output. This means that there is a defect in
 this program! In fact, when you run the test suite for the program with the
-command `pytest tests` in the `duplicaetes` directory you should notice that the
+command `pytest tests` in the `duplicates` directory you should notice that the
 test suite fails.
 
 ## Assignment
